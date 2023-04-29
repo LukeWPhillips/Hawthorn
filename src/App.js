@@ -4,7 +4,7 @@ import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router history={browserHistory} basename={"/"}>
+    <Router basename={"/"}>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/work" element={<MyWork />} />
