@@ -1,10 +1,10 @@
 import Home from "./pages/Home";
 import MyWork from "./pages/MyWork";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router basename={"/"}>
+    <Router>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/work" element={<MyWork />} />
