@@ -1,6 +1,6 @@
 {
   "name": "hawthorn",
-  "homepage": "https://hawthorngardencare.co.uk/Hawthorn",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
