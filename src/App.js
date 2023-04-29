@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router history={browserHistory} basename={"Hawthorn"}>
+    <Router history={browserHistory} basename={"/Hawthorn"}>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route exact path="/work" element={<MyWork />} />
