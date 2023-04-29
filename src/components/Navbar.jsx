@@ -7,12 +7,12 @@ function Navbar() {
       <nav className="navbar_container">
         <ul>
           <li>
-            <NavLink to="/hawthorn" className="nav-link">
+            <NavLink to="/" className="nav-link">
               HOME
             </NavLink>
           </li>
           <li>
-            <NavLink className="nav-link" to="/hawthorn/#services">
+            <NavLink className="nav-link" to="/#services">
               SERVICES
             </NavLink>
           </li>
@@ -22,7 +22,7 @@ function Navbar() {
             </NavLink>
           </li>
           <li>
-            <NavLink className="nav-link" to="/hawthorn/#contact">
+            <NavLink className="nav-link" to="/#contact">
               CONTACT
             </NavLink>
           </li>
