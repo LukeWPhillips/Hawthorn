@@ -248,7 +248,7 @@ function Home() {
         <div className="reviews-container">
           <h1 className="heading_reviews">Customer Testimonials</h1>
           <h3>
-            Hear what our satisfied customers have to say about our services;
+            Hear what our satisfied customers have to say about our services
           </h3>
           {/* // eslint-disable-next-line */}
           <CarouselTwo />

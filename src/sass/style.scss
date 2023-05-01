@@ -52,7 +52,7 @@ img {
   li {
     display: flex;
     font-family: $alegreya-sans;
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 
@@ -324,6 +324,7 @@ img {
     margin-top: 2rem;
     color: $fontThirdColor;
     font-family: $alegreya-sans;
+    font-size: 22px;
   }
 }
 
@@ -350,6 +351,7 @@ img {
     color: #fefefe;
   }
   p {
+    font-size: 25px;
     padding: 40px;
     font-family: $alegreya-sans;
   }
@@ -362,6 +364,9 @@ img {
     justify-content: center;
     align-items: center;
     color: black;
+    p {
+      font-size: 20px;
+    }
   }
 
   .icon {
