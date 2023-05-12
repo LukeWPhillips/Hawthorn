@@ -107,7 +107,7 @@ function Home() {
           <div className="line-1"></div>
           <p>
             Hawthorn Garden Care will provide you with the best service around.
-            With over 15 years as a a landscape gardener i will offer personal
+            With over 15 years as a landscape gardener i will offer personal
             service and reliability.
           </p>
         </div>
